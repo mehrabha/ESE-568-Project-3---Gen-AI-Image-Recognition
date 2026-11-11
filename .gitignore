@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+ENV/
+
+# Project Data & CV Outputs (Crucial for CSVision)
+*.csv
+*.tsv
+data/
+datasets/
+output/
+outputs/
+runs/
+checkpoint/
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# AI/ML Model Weights
+*.pt
+*.pth
+*.pkl
+*.h5
+*.onnx
+*.weights
+*.pb
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
